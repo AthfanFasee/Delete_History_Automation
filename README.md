@@ -3,4 +3,4 @@ A small programme which automatically deletes Browser history choosing the speci
 
 Programme may work differently according to screen scaling (positions can be changed easily in source code).
 
-Just click on main.exe to run. (Seletc minimized mode in properties).
+Build using command "go build main.go" and click on main.exe to run. (Seletc minimized mode in properties).
