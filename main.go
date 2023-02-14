@@ -31,5 +31,4 @@ func main() {
 
 	// Close Edge and End Programme
 	robotgo.CloseWindow()
-	
 }
